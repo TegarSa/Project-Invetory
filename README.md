@@ -1,8 +1,11 @@
+---
 # Project Inventory
+---
 
 Project Inventory memungkinkan pengguna untuk mengelola data inventaris barang.  
 Aplikasi ini dibuat untuk tujuan belajar dan pengujian konsep dasar pemrograman berorientasi objek (OOP) menggunakan Java.
 
+---
 ## Fitur Utama
 - Menambah, mengedit, dan menghapus data barang  
 - Menampilkan daftar barang yang tersimpan  
@@ -16,3 +19,4 @@ Aplikasi ini dibuat untuk tujuan belajar dan pengujian konsep dasar pemrograman 
 - **Collections Framework**
 
 ## Struktur Direktori
+---
